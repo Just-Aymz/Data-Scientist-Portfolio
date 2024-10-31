@@ -35,7 +35,7 @@ I am a self-taught data enthusiast transitioning into the field of data science 
 ### 4. Employee Attrition
   - **Description**: Analysed employee attrition drivers using mutual information scores to identify key factors, including overtime, income, and tenure. Clustered employees to explore attrition patterns across demographic segments.
   - **Key Skills**: Mutual Information, K-means Clustering, Classification Models, Employee Analytics, Executive dashboard summary.
-  - **Repository**: Link to project repo
+  - **Repository**: [Executive Summary](https://github.com/Just-Aymz/HR-Employee-Attrition-Prediction/blob/main/Attrition_Report.ipynb)
 
 ## **Current Interests**
 - Deepening my knowledge of advanced NLP techniques, deep learning and neural networks.

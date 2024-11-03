@@ -44,7 +44,7 @@ I am a self-taught data enthusiast transitioning into the field of data science 
   * [Applied Data Science](https://skills.yourlearning.ibm.com/certificate/share/8d20440c55ewogICJsZWFybmVyQ05VTSIgOiAiMjg1MDA4NlJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjZDQkVGQ0EyQkZEIgp99208e61d3a-10) (June, 2024) - IBM
 
 ## **Contact**
-- Email: [amogelangmore96@gmail.com](https://www.amogelangmore96@gmail.com)
+- Email: [amogelangmore96@gmail.com](https://mailto:amogelangmore96@gmail.com)
 - LinkedIn: [@AmogelangMore](https://www.linkedin.com/in/amogelang-more)
 
 Thank you for exploring my portfolio! I'm always open to connections and new opportunities in data science.

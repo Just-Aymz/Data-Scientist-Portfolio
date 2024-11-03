@@ -22,17 +22,12 @@ I am a self-taught data enthusiast transitioning into the field of data science 
    - **Key Skills**: Regression, Feature Engineering, Random Forest
    - **Repository**: [Executive Summary](https://github.com/Just-Aymz/Real-Estate-Prediction/edit/main/README.md)
 
-### 2. Sentiment Analysis on Social Media
-   - **Description**: Built a sentiment analysis model to gauge public sentiment on social media posts about [topic]. Employed NLP techniques such as word embeddings and sentiment classification.
-   - **Key Skills**: NLP, Word Embeddings, LSTM
-   - **Repository**: [Link to project repo](#)
-
-### 3. Customer Segmentation for E-commerce
+### 2. Customer Segmentation for E-commerce
    - **Description**: Applied clustering techniques to segment customers based on purchasing behaviour. Used K-means for meaningful customer insights.
    - **Key Skills**: K-means Clustering, Data Visualisation, Customer Analytics
    - **Repository**: [Executive Summary](https://github.com/Just-Aymz/RFM-Segmentation-Analysis/blob/main/README.md)
 
-### 4. Employee Attrition
+### 3. Employee Attrition
   - **Description**: Analysed employee attrition drivers using mutual information scores to identify key factors, including overtime, income, and tenure. Clustered employees to explore attrition patterns across demographic segments.
   - **Key Skills**: Mutual Information, K-means Clustering, Classification Models, Employee Analytics, Executive dashboard summary.
   - **Repository**: [Executive Summary](https://github.com/Just-Aymz/HR-Employee-Attrition-Prediction/blob/main/Attrition_Report.ipynb)

@@ -45,6 +45,6 @@ I am a self-taught data enthusiast transitioning into the field of data science 
 
 ## **Contact**
 - Email: [amogelangmore96@gmail.com](https://mail.google.com/amogelangmore96@gmail.com)
-- LinkedIn: [@AmogelangMore](www.linkedin.com/in/amogelang)
+- LinkedIn: [@AmogelangMore](https://www.linkedin.com/in/amogelang)
 
 Thank you for exploring my portfolio! I'm always open to connections and new opportunities in data science.
